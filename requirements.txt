@@ -1,0 +1,23 @@
+# Data Science & ML
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+jupyterlab
+
+# Backend API
+fastapi
+uvicorn[standard]
+pydantic
+joblib
+
+# Database
+pymongo[srv]
+
+# Frontend GUI
+streamlit
+requests
+
+# MLOps Automation
+n8n

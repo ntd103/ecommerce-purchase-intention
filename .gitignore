@@ -1,0 +1,25 @@
+# Môi trường ảo
+venv/
+.venv/
+env/
+.env/
+
+# Anaconda
+.conda/
+conda-meta/
+conda-bld/
+conda-env/
+
+# File cache của Python
+__pycache__/
+*.pyc
+
+# File dữ liệu
+data/*.csv
+
+# File mô hình đã huấn luyện
+api/models/*.joblib
+
+# File hệ điều hành
+.DS_Store
+Thumbs.db
